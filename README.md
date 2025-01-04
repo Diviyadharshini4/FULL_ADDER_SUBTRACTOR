@@ -37,9 +37,24 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+FULL ADDER
+Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin 
 
-**Procedure**
+Carry = AB + ACin + BCin
 
+![fa](https://github.com/user-attachments/assets/222cd964-e802-4f36-bf39-4d029f90fccc)
+
+FULL SUBRACTOR
+
+Diff = A ⊕ B ⊕ Bin 
+
+Borrow out = A'Bin + A'B + BBin
+
+![fb](https://github.com/user-attachments/assets/38e03bd8-d0af-4187-95ba-f47942091547)
+
+
+
+**PROCEDURE**
 Write the detailed procedure here
 
 **Program:**
